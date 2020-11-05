@@ -4,7 +4,8 @@
 👉 This Project IS Basically deplay current NEWS of India 
 👉 Tech Used -> Css(flexBox),React with Axios Library (for fetching Api using Ajax Syntax),Rest All Done by npm Create React App
 
-# NOTE->The Api that i use in this project is Only for testing purpose,It will charge If using it for developing application,That is Why this project will work on localMachine(i am using It for testing purpose)
+### NOTE
+The Api that i use in this project is Only for testing purpose,It will charge If using it for developing application,That is Why this project will work on localMachine(i am using It for testing purpose)
 
 Step for Running on Local machine-
 1)Git clone repo link
