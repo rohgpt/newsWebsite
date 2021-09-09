@@ -17,9 +17,13 @@ That's why this project will work on local machine (I am using testing version).
 3. npm init
 4. npm install
 5. npm start
+6. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### UI
+![Img](ui\homePage.PNG)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### FUTURE SCOPE
+- As doing this project my main purpose was to learn react axios library and apis data fetching,So I have not designed proper UI, But Yes I will do it when I have free time.
+
+### **Thanks for visiting this project**
 
